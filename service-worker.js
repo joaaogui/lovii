@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.db46bff2b794b24f39764419a62b3a02.js"
+  "/precache-manifest.4b31874bb4f578e5b2ec80cfd41aa836.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "lovii-landing"});

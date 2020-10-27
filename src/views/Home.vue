@@ -5,6 +5,11 @@
          <v-img  max-height="80vh" contain class="logo-image" src="@/assets/lovii_redondo.png"/>
       </v-col>
     </v-row>
+    <v-row class="photos no-gutters" >
+      <v-col>
+        sdsd
+      </v-col>
+    </v-row>
   </div>
 </template>
 
@@ -21,13 +26,20 @@ export default class Home extends Vue {}
 </script>
 
 <style scoped lang="scss">
-.logo {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 80vh;
-  background-color: #f7a94a;
-
+.home {
+  display: block;
 }
+  .logo {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-height: 80vh;
+    background-color: #f7a94a;
+  }
+  .photos {
+    height: 400px;
+    width: 100%;
+    background-color: #e83171;
+  }
 </style>

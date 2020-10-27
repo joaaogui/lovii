@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef6dab3fbf468045f636",
-    "url": "/css/app.53ead2df.css"
+    "revision": "81723c2aa6d01dc4f75f",
+    "url": "/css/app.470e119d.css"
   },
   {
     "revision": "1003131422eb4dc612c0",
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/lovii_redondo.0fb4cff2.png"
   },
   {
-    "revision": "b42f858d6164ae73422e7f3b6b06ce9a",
+    "revision": "8de10a0e7acc9924dc867b843016ca19",
     "url": "/index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.9bb06ea1.js"
   },
   {
-    "revision": "ef6dab3fbf468045f636",
-    "url": "/js/app.e694c699.js"
+    "revision": "81723c2aa6d01dc4f75f",
+    "url": "/js/app.edd813c9.js"
   },
   {
     "revision": "1003131422eb4dc612c0",

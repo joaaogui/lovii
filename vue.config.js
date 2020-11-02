@@ -3,6 +3,8 @@ module.exports = {
     "vuetify"
   ],
 
+  publicPath: '',
+
   pwa: {
     name: 'Lovii Personalizados',
     themeColor: '#f7a94a',

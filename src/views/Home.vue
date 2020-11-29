@@ -20,6 +20,11 @@
           <v-img @click="goToInsta" class="photo" src="@/assets/photos/11.jpg"/>
       </v-col>
     </v-row>
+    <v-row class="no-gutters">
+      <v-col class="about">
+<span> site chama borabora entra lá</span>
+      </v-col>
+    </v-row>
   </div>
 </template>
 
@@ -75,14 +80,18 @@ export default class Home extends Vue {
         position: absolute;
         width: 100%; height:100%;
         top:0; left:0;
-        background:rgba(0,0,0,0.6);
+        background:rgba(0,0,0,0.3);
         opacity: 0;
-        transition: all 1s;
-        -webkit-transition: all 1s;
+        transition: all 400ms;
       }
       &:hover:after {
         opacity: 1;
       }
     }
+  }
+
+  .about {
+    background-color: #f7a94a;
+    color: white;
   }
 </style>
